@@ -198,7 +198,7 @@ Photo of the pipe character on our keyboard
 
 ![Pipe](assets/pipe.jpg)
 
-[Secret Window Hidden Garden](secret-window/hidden-garden.md
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## References
 
