@@ -60,7 +60,12 @@ puts "Factorial of 5 is #{result}"
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
+<!-- This content will not appear in the rendered Markdown
 <img src="https://github.com/jmosesza/github-docs-example/assets/62349969/75ec03e4-6c29-4474-85a7-15956658fe9f" alt="Backtick" width="200" height="200" />
+-->
+
+<img src="https://github.com/jmosesza/github-docs-example/assets/backtick.jpg" alt="Backtick" width="200" height="200" />
+
 
 Good Cloud Engineers use Codeblocks for both Code and Errors that appear in the console.
 
@@ -181,7 +186,12 @@ but it may vary based on your keyboard layout.
 
 Photo of the pipe character on our keyboard
 
+<!-- This content will not appear in the rendered Markdown
 <img src="https://github.com/jmosesza/github-docs-example/assets/62349969/d883ad9d-2146-4883-b926-92c8788ef081" alt="Pipe" width="200" height="200" />
+-->
+
+
+![Pipe](assets/pipe.jpg)
 
 Secret Window Hidden Garden
 
