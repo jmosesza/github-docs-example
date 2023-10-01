@@ -18,8 +18,6 @@ Codeblocks are also excellent resources for **understanding how the code functio
 
 Because it allows others to copy and paste their code to replicate or research issues.
 
-
-
 - In order to create Codeblocks **in markdown you need to use three backticks (`)**
 
 - **Not to be confused with quotation (')**
@@ -64,7 +62,7 @@ puts "Factorial of 5 is #{result}"
 <img src="https://github.com/jmosesza/github-docs-example/assets/62349969/75ec03e4-6c29-4474-85a7-15956658fe9f" alt="Backtick" width="200" height="200" />
 -->
 
-<img src="https://github.com/jmosesza/github-docs-example/assets/backtick.jpg" alt="Backtick" width="200" height="200" />
+<img src="assets/backtick.jpg" alt="Backtick" width="200" height="200" />
 
 
 Good Cloud Engineers use Codeblocks for both Code and Errors that appear in the console.
@@ -91,58 +89,64 @@ A screenshot is when you capture a part of your screen from your laptop, desktop
 
 This is not be confused with taking a photo with your phone.
 
-DON'T DO THIS
+**DO NOT DO THIS**
+
+![screen-shot-from-phone](assets/screen-shot-from-phone.jpg)
 
 This is what a screenshot from your computer should look like
 
-DO THIS INSTEAD
+**DO THIS INSTEAD**
+
+![screen-shot-example](assets/screen-shot-example.jpg)
 
 Screenshot example
 
 To take screenshots on both macOS and Windows, you can use the following hotkeys:
 
-***For macOS:
+You can take screenshots on both macOS and Windows using hotkeys or keyboard shortcuts. Here are the common methods for taking screenshots on each platform:
 
-Entire Screen:
+**On macOS:**
 
-Press Command (⌘) + Shift + 3
-The screenshot will be saved to your desktop by default.
-Selected Portion:
+1. **Capture the Entire Screen:**
+   - Press `Command (⌘) + Shift + 3`.
+   - The screenshot will be saved to your desktop by default.
 
-Press Command (⌘) + Shift + 4
-Drag to select the area of the screen you want to capture.
-The screenshot will be saved to your desktop by default.
-Capture a Window:
+2. **Capture a Selected Portion of the Screen:**
+   - Press `Command (⌘) + Shift + 4`.
+   - Drag to select the area of the screen you want to capture.
+   - Release the mouse button to take the screenshot.
+   - The screenshot will be saved to your desktop by default.
 
-Press Command (⌘) + Shift + 4, then press Spacebar.
-Click on the window you want to capture.
-The screenshot will be saved to your desktop by default.
-Capture Touch Bar (if you have one):
+3. **Capture a Specific Window:**
+   - Press `Command (⌘) + Shift + 4`.
+   - Press the `Spacebar`.
+   - Click on the window you want to capture.
+   - The screenshot of the selected window will be saved to your desktop by default.
 
-Press Command (⌘) + Shift + 6
-The screenshot will be saved to your desktop by default.
+**On Windows:**
 
-***For Windows:
+1. **Capture the Entire Screen:**
+   - Press `PrtScn` (Print Screen) key.
+   - The screenshot is copied to the clipboard. You can paste it into an image editor (e.g., Paint, Photoshop) and save it from there.
 
-Entire Screen:
+2. **Capture the Active Window:**
+   - Press `Alt + PrtScn`.
+   - The screenshot of the currently active window is copied to the clipboard.
 
-Press PrtScn (Print Screen) key.
-The screenshot is copied to the clipboard. You can paste it into an application like Paint or Word.
-Active Window:
-
-Press Alt + PrtScn
-The screenshot of the active window is copied to the clipboard. You can paste it into an application.
-Selected Portion using Snip & Sketch (available in recent Windows versions):
-
-Press Windows + Shift + S
-Your screen will dim, and you can select an area to capture.
-The screenshot is copied to the clipboard. You can paste it into an application.
-Using Snipping Tool (available in older Windows versions):
-
-Search for "Snipping Tool" in the start menu.
-Open the application and click on "New" to take a screenshot.
-Save the screenshot.
+3. **Capture a Selected Portion of the Screen (Windows 10 and later):**
+   - Press `Shift + Windows Key + S`.
+   - Click and drag to select the area you want to capture.
+   - The screenshot is copied to the clipboard. You can paste it into an image editor or application.
+  
+4. **Search for "Snipping Tool" in the start menu:**
+   - Open the application and click on "New" to take a screenshot.
+   - Save the screenshot.
+     
 For both operating systems, there are also third-party applications available that offer more advanced screenshot functionalities, but the above methods are built-in and don't require additional software.
+
+Please note that the exact key combinations and available features may vary slightly depending on your specific macOS or Windows version. These are the standard shortcuts for taking screenshots on each platform, and they should work on most systems.
+
+Additionally, macOS provides a screenshot utility called "Grab" with more options, and Windows has the "Snipping Tool" or "Snip & Sketch" (Windows 10 and later) for advanced screenshot capture and annotation features.
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
