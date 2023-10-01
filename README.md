@@ -101,6 +101,7 @@ This is what a screenshot from your computer should look like
 
 Screenshot example
 
+
 To take screenshots on both macOS and Windows, you can use the following hotkeys:
 
 You can take screenshots on both macOS and Windows using hotkeys or keyboard shortcuts. Here are the common methods for taking screenshots on each platform:
